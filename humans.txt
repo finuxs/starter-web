@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Antonio Romero a.romeromerida@gmail.com
 
 # THANKS
 
